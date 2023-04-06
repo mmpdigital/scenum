@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "06.04.2023 09:21 like aulas",
+	"lastEventDate": "06.04.2023 10:25 like aulas",
 	"status": 2,
 	"id": "100089563188241",
 	"name": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1712306456.955142,
+			"expirationDate": 1712312178.828816,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1712306456.955224,
+			"expirationDate": 1712312178.828916,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,24 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "46%3AAtNNytGTrOJH7A%3A2%3A1679991424%3A-1%3A739%3A%3AAcXhg3wIk-OLTkfrBWrtlAWEwEpcu7-SSch-o50qIA"
+			"value": "46%3AAtNNytGTrOJH7A%3A2%3A1679991424%3A-1%3A739%3A%3AAcXMQIEfSEEeapFY9UzL5lz7OzcZmul2VOI0_WeaVw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681377392,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "624x875"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1688548513.2775,
+			"expirationDate": 1688552296.333402,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +87,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0kXgMzb8vCcj2GHgD.AWX9TVWjlQuuwDV0FupCGPWY99Y.BkLoWa.nq.AAA.0.0.BkLo2i.AWVv50O4hn8"
+			"value": "09ft7Rox0HTVSJarT.AWWG96rHnNcd6I5W5scJ51ECqrU.BkLpv0.nq.AAA.0.0.BkLpxp.AWVBxem3puI"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1681381316,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "624x351"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1680772577709%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1680776488764%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "www.facebook.com",
