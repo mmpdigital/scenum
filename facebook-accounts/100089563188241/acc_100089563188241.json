@@ -1,15 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "06.04.2023 10:27 like aulas",
+	"lastEventDate": "06.04.2023 10:53 like aulas",
 	"status": 2,
 	"id": "100089563188241",
 	"name": "",
 	"amountFriends": "",
-	"screenname": "Sheila Vilas Boas",
-	"birthdate": "1987 March 23",
-	"country": "Brazil",
-	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -78,7 +74,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1688552296.333402,
+			"expirationDate": 1688553718.663549,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,11 +83,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "09ft7Rox0HTVSJarT.AWWG96rHnNcd6I5W5scJ51ECqrU.BkLpv0.nq.AAA.0.0.BkLpxp.AWVBxem3puI"
+			"value": "09ft7Rox0HTVSJarT.AWWvzxIu0pFKsDAWJK1IpfTZ3bE.BkLpv0.nq.AAA.0.0.BkLqH4.AWU-VbhN0uE"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681381316,
+			"expirationDate": 1681382641,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,19 +96,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "624x351"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "presence",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1680776488764%2C%22v%22%3A1%7D"
+			"value": "624x355"
 		},
 		{
 			"domain": "www.facebook.com",
@@ -124,7 +108,19 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABauARaG_8m2DhMEFqKw4K39wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaslvTCDBYAABV-HEwAABYAFsiW9MIMFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABbclvTCDBYAABWAARxMAAAWABbclvTCDBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmsFQQVdCbclvTCDBYAABUEFWom3pb0wgwWAAAVBBViJtyW9MIMFgAAFQQVhgEm4Jb0wgwWAAAVBBVuJuyW9MIMFgAAFQQVOibklvTCDBYAABUEFQwm4Jb0wgwWAAAVBBU8JuiW9MIMFgAAFQQVYCbqlvTCDBYAABUEFVIm6Jb0wgwWAAAWJhEmABYUAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221680770475%22%2C%22140%22%3A%22dummy_cursor%22%2C%22141%22%3A%22dummy_cursor%22%2C%22142%22%3A%22dummy_cursor%22%2C%22143%22%3A%22dummy_cursor%22%2C%22196%22%3A%22dummy_cursor%22%7D%2C%22d%22%3A%22e2e2be71-a5f7-43f5-b5b1-56a289de67e0%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABauARaG_8m2DhMEFqKw4K39wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaslvTCDBYAABV-HEwAABYAFsiW9MIMFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABbclvTCDBYAABWAARxMAAAWABbclvTCDBYAABYoAA%22%2C%2216%22%3A%22FQQVCBmsFQQVdCbclvTCDBYAABUEFWom3pb0wgwWAAAVBBViJtyW9MIMFgAAFQQVhgEm4Jb0wgwWAAAVBBVuJuyW9MIMFgAAFQQVOibklvTCDBYAABUEFQwm4Jb0wgwWAAAVBBU8JuiW9MIMFgAAFQQVYCbqlvTCDBYAABUEFVIm6Jb0wgwWAAAWJhEmABYUAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221680770475%22%2C%22140%22%3A%22dummy_cursor%22%2C%22141%22%3A%22dummy_cursor%22%2C%22142%22%3A%22dummy_cursor%22%2C%22143%22%3A%22dummy_cursor%22%2C%22196%22%3A%22dummy_cursor%22%7D%2C%22d%22%3A%22e2e2be71-a5f7-43f5-b5b1-56a289de67e0%22%2C%22s%22%3A%221%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1680777850329%2C%22v%22%3A1%7D"
 		}
 	]
 }
