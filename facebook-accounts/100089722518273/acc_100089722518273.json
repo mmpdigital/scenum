@@ -1,8 +1,105 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.04.2023 07:23 Farm1-3_Eu",
+	"lastEventDate": "24.04.2023 07:25 Farm1-3_Eu",
 	"status": 2,
 	"id": "100089722518273",
-	"name": ""
+	"name": "",
+	"amountFriends": "",
+	"screenname": "Valeria Alencar",
+	"birthdate": "1999 July 21",
+	"country": "",
+	"isAvatarExists": false,
+	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1714290052.879853,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "sb",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "7ZIeZP9PmFOd1cxSJDoI6UiO"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1714285295.449559,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "7ZIeZJLmyqMb9j9X2wSbP0Sb"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1713856989.025435,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100089722518273"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682925841,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "624x355"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1713856989.025482,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "27%3Adsk3TYPPb4H_sQ%3A2%3A1679730051%3A-1%3A-1%3A%3AAcXdnNh8SKy5i4StBD7Bb5-t7Pfm7tG7-KVn9IpN6sA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1690096987.0255,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0CjSGkp146N9rxiCG.AWUVi7Gs72lh4jTPrWl4CTHyvbA.BkRi5e.Km.AAA.0.0.BkRi5e.AWWGrdz8-EA"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682321017463%2C%22v%22%3A1%7D"
+		}
+	]
 }
