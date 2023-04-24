@@ -1,8 +1,105 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.04.2023 07:23 Farm1-3_Eu",
+	"lastEventDate": "24.04.2023 07:26 Farm1-3_Eu",
 	"status": 2,
 	"id": "100091255151230",
-	"name": ""
+	"name": "",
+	"amountFriends": "",
+	"screenname": "Caroline Martins",
+	"birthdate": "1990 July 22",
+	"country": "",
+	"isAvatarExists": false,
+	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1714540849.104568,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "sb",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "ypIeZNNIZu_gG2tginw-BERX"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1714540843.147746,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "ypIeZMZ-pYnOQDWtR89w5qOH"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1713857000.769589,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100091255151230"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682925861,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "624x355"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1713857000.769669,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "47%3AunP6saFsUicFng%3A2%3A1679980844%3A-1%3A-1%3A%3AAcW9-GKKC8PenhRKvSXR6u8ujkcBR32i6UGXFXB41g"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1690096999.769696,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0duBFQAZ2J4KnsJki.AWVqszA9rxEB6oiyS7PGnLzM0VA.BkRi5p.me.AAA.0.0.BkRi5p.AWVm1oXQ_og"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682321049978%2C%22v%22%3A1%7D"
+		}
+	]
 }
