@@ -1,8 +1,105 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.04.2023 07:13 Farm1-3_Eu",
+	"lastEventDate": "24.04.2023 07:16 Farm1-3_Eu",
 	"status": 2,
 	"id": "100090818843900",
-	"name": ""
+	"name": "",
+	"amountFriends": "",
+	"screenname": "Luciana Soares",
+	"birthdate": "1992 July 25",
+	"country": "",
+	"isAvatarExists": false,
+	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1713501532.195005,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "sb",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "-0oRZKHlb9EZzsz_L9F-rXz4"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1713414908.620317,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "-0oRZLV_feel9iF4MVJoqhlk"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1713856404.933672,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100090818843900"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682925280,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "624x355"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1713856404.933718,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "24%3AaxFSOwz25O6NGg%3A2%3A1678941528%3A-1%3A-1%3A%3AAcVrarnjVSdfV20-6eY3uH2zDO_SdH2f2iqYEohJtyc"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1690096411.333575,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0twDBPJnRbTXnsUck.AWWmkZRANNGKAPsk-XlR4O9oyiE.BkRiwV.g1.AAA.0.0.BkRiwc.AWXZneKhqhc"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682320466675%2C%22v%22%3A1%7D"
+		}
+	]
 }
