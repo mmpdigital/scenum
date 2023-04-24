@@ -1,5 +1,116 @@
 {
 	"sn": "facebook",
 	"id": "100091431937956",
-	"name": ""
+	"name": "",
+	"amountFriends": "",
+	"screenname": "Amanda Alves",
+	"birthdate": "1991 September 11",
+	"country": "Brazil",
+	"isAvatarExists": false,
+	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1714625193.747905,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100091431937956%22%3A%22uuAxXED8%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1714875969.199748,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "sb",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "LkkRZDgONLs-LgNpKQXNbcjD"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1714846292.880931,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "LkkRZIYmThWeUgl9Ug3-IfHp"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1713881270.154569,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100091431937956"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1713881270.154626,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "30%3AS3M34fgT3QUgew%3A2%3A1680315966%3A-1%3A-1%3A%3AAcWhREvkDKoTY5VxHXAjPBGTShzzZ6Vljie3xkQ8nw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682950257,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1366x580"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1690121306.859086,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0v3SBUMqAMc4k6cib.AWWf7Wsh081VJkEPKWLiX0y1uds.BkRo04.Re.AAA.0.0.BkRo1c.AWVGXKjhCkQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682345466088%2C%22v%22%3A1%7D"
+		}
+	],
+	"lastEventDate": "24.04.2023 14:13 Farm 1-3 Random 01-02"
 }
