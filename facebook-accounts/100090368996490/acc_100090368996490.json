@@ -1,8 +1,92 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.04.2023 10:54 Farm1-3_Eu",
+	"lastEventDate": "24.04.2023 10:57 Farm1-3_Eu",
 	"status": 2,
 	"id": "100090368996490",
-	"name": ""
+	"name": "",
+	"amountFriends": "",
+	"screenname": "Marcelle Rocha",
+	"birthdate": "1993 April 10",
+	"country": "",
+	"isAvatarExists": false,
+	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1714363716.985878,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "sb",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "68QfZFiposSx-xfr4XAfVSxN"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1714363629.411109,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "68QfZPWLfDqPCbqifJY4Tm5j"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1713869676.425773,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100090368996490"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1713869676.425821,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "2%3A1OPaLOYcnMZbZg%3A2%3A1679803715%3A-1%3A-1%3A%3AAcVg3QUwOzmNosL4H5E_hjFZqdnBbc8OOm4RcnrSVg"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1690109679.565705,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0lRQjA00UxZPngoMk.AWVECsUDqKbhIE0ngQ9LD5bM_-4.BkRl_u.XN.AAA.0.0.BkRl_x.AWVt2UQhh24"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682333710780%2C%22v%22%3A1%7D"
+		}
+	]
 }
