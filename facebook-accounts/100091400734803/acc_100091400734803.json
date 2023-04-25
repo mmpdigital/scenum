@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.04.2023 08:35 preencher teste01",
+	"lastEventDate": "25.04.2023 08:43 Gupos-Paginas-001",
 	"status": 2,
 	"id": "100091400734803",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Natalia Sayuri",
 	"birthdate": "1991 February 9",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683015964,
+			"expirationDate": 1683016881,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690187040.273343,
+			"expirationDate": 1690187998.046033,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "00dmTylFXIR8RK6tW.AWXFRFxFgEnG1hqB2cW5jsR2Tcs.BkR44i._3.AAA.0.0.BkR44i.AWVYClMYLWY"
+			"value": "00dmTylFXIR8RK6tW.AWU4DrVi80HXglPq6eQ8yXOwTLM.BkR44i._3.AAA.0.0.BkR5Hf.AWVbaC47wgw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100077538438991%22%7D%5D%2C%22utc3%22%3A1682411173924%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100077538438991%22%7D%5D%2C%22utc3%22%3A1682412075983%2C%22v%22%3A1%7D"
 		}
 	]
 }
