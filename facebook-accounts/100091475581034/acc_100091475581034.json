@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.04.2023 07:55 preencher teste01",
+	"lastEventDate": "25.04.2023 08:01 preencher teste01",
 	"status": 2,
 	"id": "100091475581034",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Ana Maria Muniz",
 	"birthdate": "1990 July 26",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713941210.974535,
+			"expirationDate": 1713944811.430347,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713941210.975475,
+			"expirationDate": 1713944811.430408,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "30%3AufEbxzxl9QzLcA%3A2%3A1679986655%3A-1%3A-1%3A%3AAcXb6IggeANtvj9VxG7XI_M07909aSkD5SH-h8prhw"
+			"value": "30%3AufEbxzxl9QzLcA%3A2%3A1679986655%3A-1%3A-1%3A%3AAcXXNHDVCKnY98zGWRZM1umvD3SzPbcErfjgSR3_9w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683013280,
+			"expirationDate": 1683014354,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690184311.747185,
+			"expirationDate": 1690185442.734953,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03AjuFUHovmNzP4mF.AWWxb0FjLoZpHI6dVnh18DmjuIk.BkR3dc.pT.AAA.0.0.BkR4N4.AWUn2LvV530"
+			"value": "0HHPkZwuwuU5CBgeF.AWVvIAA38kMP3SeLNJGb-d-78Z0.BkR4Vs.pT.AAA.0.0.BkR4fj.AWX8RKtyFqc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682408492049%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682409559556%2C%22v%22%3A1%7D"
 		}
 	]
 }
