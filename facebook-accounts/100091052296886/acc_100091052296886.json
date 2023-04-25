@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.04.2023 08:37 preencher teste01",
+	"lastEventDate": "25.04.2023 08:43 Gupos-Paginas-001",
 	"status": 2,
 	"id": "100091052296886",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Pollyana Dias",
 	"birthdate": "1990 May 22",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690187082.022379,
+			"expirationDate": 1690187980.791337,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0GOyTdoYfWDyWOuhv.AWV8RY6kNBaU1hQNYXmn98OYM5o.BkR44e.r9.AAA.0.0.BkR45L.AWWgkZMGeo4"
+			"value": "0GOyTdoYfWDyWOuhv.AWWzIt9EUTNIjzieUy-tJZ6tXOE.BkR44e.r9.AAA.0.0.BkR5HN.AWVwfPeBzkA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683016062,
+			"expirationDate": 1683016857,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100089961888173%22%7D%5D%2C%22utc3%22%3A1682411225247%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100089961888173%22%7D%5D%2C%22utc3%22%3A1682412053436%2C%22v%22%3A1%7D"
 		}
 	]
 }
