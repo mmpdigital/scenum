@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.04.2023 08:37 preencher teste01",
+	"lastEventDate": "25.04.2023 08:47 Gupos-Paginas-001",
 	"status": 2,
 	"id": "100090355316000",
 	"name": "",
 	"amountFriends": "12",
 	"screenname": "Tathiana Navarro",
 	"birthdate": "1995 March 27",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690187070.493204,
+			"expirationDate": 1690188017.903401,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,7 +87,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03TgvdnYeHYfdvyGh.AWVjv6fKI3wP3BG3R-w4bLWjLJk.BkR44I.CZ.AAA.0.0.BkR44_.AWVTMckM6qg"
+			"value": "03TgvdnYeHYfdvyGh.AWWKdGFTdYiCh7y0zT3iipCQrQQ.BkR44I.CZ.AAA.0.0.BkR5Hz.AWUP_apgH80"
 		},
 		{
 			"domain": ".facebook.com",
@@ -99,11 +99,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.2085555741733977%22%7D%5D%2C%22utc3%22%3A1682411222153%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.2085555741733977%22%7D%5D%2C%22utc3%22%3A1682412246199%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683016061,
+			"expirationDate": 1683017066,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
