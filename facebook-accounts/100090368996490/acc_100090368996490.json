@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.04.2023 08:36 preencher teste01",
+	"lastEventDate": "25.04.2023 08:44 Gupos-Paginas-001",
 	"status": 2,
 	"id": "100090368996490",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Marcelle Rocha",
 	"birthdate": "1993 April 10",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -65,20 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690187030.117201,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0X33AS3ubscU26S9l.AWU-R0sWiHbne4F6RL-3fw_1R2I.BkR439.XN.AAA.0.0.BkR44W.AWXb02Ou4ns"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683016037,
+			"expirationDate": 1683016909,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,6 +78,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1690188012.948652,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0X33AS3ubscU26S9l.AWXKnYRX-NqMWN92A49EBpcIeDs.BkR439.XN.AAA.0.0.BkR5Hu.AWVys2XFH7U"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682411218730%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682412119074%2C%22v%22%3A1%7D"
 		}
 	]
 }
