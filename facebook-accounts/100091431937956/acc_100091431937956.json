@@ -75,20 +75,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690187071.27736,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0ZotnLCCxPPSflCoa.AWWxgnkqqQjAN5fo7dpD3ZUb4YA.BkR438.Re.AAA.0.0.BkR45A.AWXvhvYs6kc"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683015982,
+			"expirationDate": 1683016886,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -101,6 +88,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1690187989.926978,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0ZotnLCCxPPSflCoa.AWXDs_LrD6fUCg50SVqVSHHZ0xE.BkR438.Re.AAA.0.0.BkR5HX.AWV_S_-V1ds"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -109,9 +109,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.263070713833703%22%7D%5D%2C%22utc3%22%3A1682411188532%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.263070713833703%22%7D%5D%2C%22utc3%22%3A1682412092612%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "25.04.2023 08:35 preencher teste01",
+	"lastEventDate": "25.04.2023 08:43 Gupos-Paginas-001",
 	"status": 2
 }
