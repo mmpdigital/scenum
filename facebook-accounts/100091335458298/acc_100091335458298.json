@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.04.2023 10:13 Farm1-3_Eu",
+	"lastEventDate": "25.04.2023 12:16 (A) Dia 02 ",
 	"status": 2,
 	"id": "100091335458298",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "111",
 	"screenname": "Celina Pinheiro",
 	"birthdate": "1999 November 1",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713861507.795611,
+			"expirationDate": 1713873060.048234,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713861507.795696,
+			"expirationDate": 1713873060.048301,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +74,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "22%3AtAEJ4JHSTXMBBg%3A2%3A1679981350%3A-1%3A5538%3A%3AAcVkL7uC6sTx_yUGP03-bbX27O72YV5cVNg1qeKIZg"
+			"value": "22%3AtAEJ4JHSTXMBBg%3A2%3A1679981350%3A-1%3A5538%3A%3AAcXhUjRxRdLs1c3UR2xmMH17MGTivHF5Jg31NqVd3g"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682931784,
+			"expirationDate": 1690200594.004421,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0r3uVviby0qv3BAMb.AWVsn_vRWEzhlK9UUSLaLcz-Rik.BkRm0m.Up.AAA.0.0.BkR8MT.AWWA2vvcAyU"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683029605,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,19 +104,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690102908.831892,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0InCMyIeFuCUXhKMf.AWVniYmelD_d7J_m8YjxhPpYm9A.BkRkAE.Up.AAA.0.0.BkRkV9.AWW-bhmjj3c"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682326969722%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100088417633412%22%7D%2C%7B%22i%22%3A%22u.100075877853817%22%7D%2C%7B%22i%22%3A%22u.2085555741733977%22%7D%2C%7B%22i%22%3A%22u.100012677855183%22%7D%2C%7B%22i%22%3A%22u.100025053784614%22%7D%5D%2C%22utc3%22%3A1682424767570%2C%22v%22%3A1%7D"
 		}
 	]
 }
