@@ -64,19 +64,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683016033,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1366x580"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1713947028.913005,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -90,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690187049.186079,
+			"expirationDate": 1690187970.787635,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +86,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0DlEAe3eE2aFH2AwI.AWXivctCRp34ZQSrv_F4ryCEMhs.BkR44W.4r.AAA.0.0.BkR44q.AWXwjqIB5Oo"
+			"value": "0DlEAe3eE2aFH2AwI.AWWYvKS0tTwAGXDfihgXxI3vs9k.BkR44W.4r.AAA.0.0.BkR5HD.AWXqlomKaO0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,8 +98,21 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682411216649%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682412023431%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683016956,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1366x625"
 		}
 	],
-	"lastEventDate": "25.04.2023 08:37 preencher teste01"
+	"lastEventDate": "25.04.2023 08:45 Gupos-Paginas-001"
 }
