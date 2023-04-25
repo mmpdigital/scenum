@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713881270.154569,
+			"expirationDate": 1713947003.252084,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -62,7 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713881270.154626,
+			"expirationDate": 1713947003.252192,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -71,11 +71,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "30%3AS3M34fgT3QUgew%3A2%3A1680315966%3A-1%3A-1%3A%3AAcWhREvkDKoTY5VxHXAjPBGTShzzZ6Vljie3xkQ8nw"
+			"value": "30%3AS3M34fgT3QUgew%3A2%3A1680315966%3A-1%3A-1%3A%3AAcV_ovGKz_JCtWV7W9CUjCw_3B3Xpbnep6rr_zsauA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682950894,
+			"expirationDate": 1690187071.27736,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0ZotnLCCxPPSflCoa.AWWxgnkqqQjAN5fo7dpD3ZUb4YA.BkR438.Re.AAA.0.0.BkR45A.AWXvhvYs6kc"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683015982,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -88,19 +101,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690121958.663549,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0v3SBUMqAMc4k6cib.AWVtXs0J_NETaMD2dEwPDKtTDFE.BkRo04.Re.AAA.0.0.BkRo_o.AWW2kgEeixs"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -109,9 +109,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682346102647%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.263070713833703%22%7D%5D%2C%22utc3%22%3A1682411188532%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "24.04.2023 15:07 Farm 1-3 Random 01-02",
+	"lastEventDate": "25.04.2023 08:28 preencher teste01",
 	"status": 2
 }
