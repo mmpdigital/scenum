@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.04.2023 08:35 preencher teste01",
+	"lastEventDate": "25.04.2023 08:44 Gupos-Paginas-001",
 	"status": 2,
 	"id": "100089646918233",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Celia Marques",
 	"birthdate": "1992 July 11",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -78,20 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690187025.466451,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0kZZsOmcRhicUr22r.AWXa7mGVkzg_0kf8OSaXOHnuDDg.BkR43p.eL.AAA.0.0.BkR44S.AWXJJG0Av4Y"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683015966,
+			"expirationDate": 1683016899,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,6 +91,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1690188008.952706,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0kZZsOmcRhicUr22r.AWVp133vLRr3c15qGEoCMiyroAY.BkR43p.eL.AAA.0.0.BkR5Hq.AWVZAA5BKCg"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682411172677%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682412107839%2C%22v%22%3A1%7D"
 		}
 	]
 }
