@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.04.2023 08:02 preencher teste01",
+	"lastEventDate": "25.04.2023 08:08 preencher teste01",
 	"status": 2,
 	"id": "100091060977422",
 	"name": "",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683014366,
+			"expirationDate": 1683014791,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690185444.606632,
+			"expirationDate": 1690185922.829705,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0eacJxgZu8TFutzmz.AWXSSW0l4TJk7ZimxpHZsL80vuU.BkR4XF.16.AAA.0.0.BkR4fl.AWXvkghoSME"
+			"value": "0eacJxgZu8TFutzmz.AWUeVG1SW4kI_plm3N48ndpphkU.BkR4XF.16.AAA.0.0.BkR4nD.AWU6LKLUfFE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682409576039%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682409989299%2C%22v%22%3A1%7D"
 		}
 	]
 }
