@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.04.2023 07:53 preencher teste01",
+	"lastEventDate": "25.04.2023 08:01 preencher teste01",
 	"status": 2,
 	"id": "100090556887807",
 	"name": "",
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713940876.060529,
+			"expirationDate": 1713944586.148928,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713940876.060604,
+			"expirationDate": 1713944586.149008,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -61,11 +61,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "10%3AKgWeZUYMI5ycOQ%3A2%3A1680162725%3A-1%3A1704%3A%3AAcVbsWk4gIUkjb2fOBzvuzdDT63ianu481sZoULA1w"
+			"value": "10%3AKgWeZUYMI5ycOQ%3A2%3A1680162725%3A-1%3A1704%3A%3AAcX8Y6OGum7xt-s71VIIUDUxystKL9lyf6X0QiVr6w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683013240,
+			"expirationDate": 1683014346,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690184349.843518,
+			"expirationDate": 1690185444.831521,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,7 +87,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ytj1GJyo5zuBRYMD.AWX7h6xutcL4Kp_FDXC31DNrfJo.BkR3YN.s8.AAA.0.0.BkR4Oe.AWXsZnLW7Vk"
+			"value": "0ebkpXd5d0dJMr9EZ.AWV4ElKcBA98uBXlCr8NUw78DIM.BkR4SK.s8.AAA.0.0.BkR4fl.AWWzHmIzmuw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.103535252674193%22%7D%2C%7B%22i%22%3A%22u.2085555741733977%22%7D%5D%2C%22utc3%22%3A1682408449499%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.103535252674193%22%7D%2C%7B%22i%22%3A%22u.2085555741733977%22%7D%5D%2C%22utc3%22%3A1682409555449%2C%22v%22%3A1%7D"
 		}
 	]
 }
