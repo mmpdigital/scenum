@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713944563.670238,
+			"expirationDate": 1714032257.481434,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,20 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713944563.670319,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "9%3AZ9WzU2Aic0VZSg%3A2%3A1680769280%3A-1%3A16060%3A%3AAcXKo2ErxS3OkTu1tdIUkqX1feQpc6shjjpD6PJzEQ"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683014830,
+			"expirationDate": 1683101165,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -86,11 +73,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x580"
+			"value": "624x355"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690185938.343876,
+			"expirationDate": 1714032257.481528,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "9%3AZ9WzU2Aic0VZSg%3A2%3A1680769280%3A-1%3A16060%3A%3AAcU7ML1a-ajGXY49qv7_MmQ8VBXFUtbB0zqLA5EI5yM"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1690272292.11334,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Vlcs8zjJAnLX4OZn.AWX0EZw1G_ZlHhvo9EoEctSrbiQ.BkR4R0.c-.AAA.0.0.BkR4nT.AWX7k0ISifQ"
+			"value": "0sOwQhs9m0FOB87k6.AWW7UlD_hpN2ks7P4MUXqSD3Kh4.BkSNsD.c-.AAA.0.0.BkSNsm.AWW_-b7vmO0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,8 +111,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682410036718%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682496372134%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "25.04.2023 08:17 preencher teste01"
+	"lastEventDate": "26.04.2023 08:07 aprovar e responder random"
 }
