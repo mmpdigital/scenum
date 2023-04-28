@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.04.2023 13:48 (A) Dia 02 ",
+	"lastEventDate": "28.04.2023 11:39 aprovar e responder random",
 	"status": 2,
 	"id": "100091394765138",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Rita De Cassia",
 	"birthdate": "1989 December 13",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -39,7 +39,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713960480.669019,
+			"expirationDate": 1714217374.913317,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713960480.669204,
+			"expirationDate": 1714217374.913399,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -61,11 +61,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "29%3AhnnyWCN-P6UG9A%3A2%3A1679795243%3A-1%3A-1%3A%3AAcXpOWGGzxPWOfhyf2dVBe5Vv0_CbOWIXaeklw7ICg"
+			"value": "29%3AhnnyWCN-P6UG9A%3A2%3A1679795243%3A-1%3A-1%3A%3AAcV0AwZquhOAGVGBhy_Q-_NpcImeNgYpZ55EClmSLDw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690200586.741187,
+			"expirationDate": 1690457711.428163,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -74,7 +74,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0a65RYCL2jX4lfzXU.AWXBEU4nk8kuh7pPQ2K-JXdEkjY.BkR8Kh.NJ.AAA.0.0.BkR8ML.AWVNDY8l0zY"
+			"value": "06kXz7riXLXvkDIUO.AWWdGlkyHRCJDLvwkSHxxs6VAOU.BkS64f.NJ.AAA.0.0.BkS69w.AWXvJxNveKY"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683286627,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "681x562"
 		},
 		{
 			"domain": ".facebook.com",
@@ -86,20 +99,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682424675617%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683029522,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "2560x892"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682681834116%2C%22v%22%3A1%7D"
 		}
 	]
 }
