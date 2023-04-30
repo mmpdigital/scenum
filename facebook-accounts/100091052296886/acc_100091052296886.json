@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.04.2023 10:04 Gupos-Paginas-001",
+	"lastEventDate": "30.04.2023 22:20 Fim ",
 	"status": 2,
 	"id": "100091052296886",
 	"name": "",
 	"amountFriends": "",
 	"screenname": "Pollyana Dias",
 	"birthdate": "1990 May 22",
-	"country": "Brazil",
+	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713947037.120914,
+			"expirationDate": 1713869359.314263,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713947037.121009,
+			"expirationDate": 1713869359.314329,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "21%3A3s9g4k2j0YfdMw%3A2%3A1679990088%3A-1%3A3352%3A%3AAcXbbjM8SpvdA4lngN2NX03er0GpJiKNR_TeMm1YQA"
+			"value": "21%3A3s9g4k2j0YfdMw%3A2%3A1679990088%3A-1%3A3352%3A%3AAcXLpVXTWY0gQNSKtaldTQTH3hW_bpi9d3wwgSlISw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690187980.791337,
+			"expirationDate": 1690109362.652444,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,20 +87,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0GOyTdoYfWDyWOuhv.AWWzIt9EUTNIjzieUy-tJZ6tXOE.BkR44e.r9.AAA.0.0.BkR5HN.AWVwfPeBzkA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683016857,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1366x580"
+			"value": "0UNiWWWTnVp3Kb6T2.AWXT1w9WZdWy7PLYtxRfWjTSaCU.BkRl6x.r9.AAA.0.0.BkRl60.AWUUPZ8sSic"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +99,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100089961888173%22%7D%5D%2C%22utc3%22%3A1682412053436%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100089961888173%22%7D%5D%2C%22utc3%22%3A1682333396870%2C%22v%22%3A1%7D"
 		}
 	]
 }
