@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713865653.353936,
+			"expirationDate": 1714420224.115852,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,20 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683023325,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1366x580"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1713865653.354018,
+			"expirationDate": 1714420224.11595,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +73,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "13%3AGQrE7DpfGGHAoQ%3A2%3A1679784310%3A-1%3A-1%3A%3AAcWNaZAccZKkgy-f4hTqHcdfUGjOn_uvhEb0qzetHA0"
+			"value": "13%3AGQrE7DpfGGHAoQ%3A2%3A1679784310%3A-1%3A10307%3A%3AAcX2Oq9KpjbeSDOdZo17HTFQYn5OLaXlmcNgTAvbYog"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690194286.58361,
+			"expirationDate": 1690660243.731563,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +86,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0iFDGHpEvNhcMEels.AWVoow-n54GbRlcDxNbnYrSnupU.BkRlA2.YC.AAA.0.0.BkR6pv.AWUkvQS7FIU"
+			"value": "0d7tCHJ076AxFweJp.AWUExuE3wiiv-xS9WqkflzrnRHs.BkTsaA.YC.AAA.0.0.BkTsaU.AWVAeX_Fk4k"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,8 +98,21 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682418495170%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682884324709%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683489130,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "624x351"
 		}
 	],
-	"lastEventDate": "30.04.2023 19:50 Fim "
+	"lastEventDate": "30.04.2023 19:53 Fim "
 }
