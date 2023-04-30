@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713881270.154569,
+			"expirationDate": 1714429647.101544,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -62,20 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713881270.154626,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "30%3AS3M34fgT3QUgew%3A2%3A1680315966%3A-1%3A-1%3A%3AAcWhREvkDKoTY5VxHXAjPBGTShzzZ6Vljie3xkQ8nw"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1682950894,
+			"expirationDate": 1683498570,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -84,11 +71,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x580"
+			"value": "624x351"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690121958.663549,
+			"expirationDate": 1714429647.101623,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "30%3AS3M34fgT3QUgew%3A2%3A1680315966%3A-1%3A-1%3A%3AAcVu5EJpexAIS1CkCMYUOSwvRMeSc3g3xkCKcGeRMw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1690669685.530569,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -97,7 +97,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0v3SBUMqAMc4k6cib.AWVtXs0J_NETaMD2dEwPDKtTDFE.BkRo04.Re.AAA.0.0.BkRo_o.AWW2kgEeixs"
+			"value": "0eCaYouZ2ULihflkV.AWVIEKCt0YrqoK7nfLhCPxstRlU.BkTutP.Re.AAA.0.0.BkTut2.AWWjzyA99qI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -109,9 +109,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682346102647%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.263070713833703%22%7D%5D%2C%22utc3%22%3A1682893775593%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "30.04.2023 22:27 Fim ",
+	"lastEventDate": "30.04.2023 22:31 Fim ",
 	"status": 2
 }
