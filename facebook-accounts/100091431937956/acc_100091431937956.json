@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713947003.252084,
+			"expirationDate": 1713881270.154569,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -62,7 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713947003.252192,
+			"expirationDate": 1713881270.154626,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -71,11 +71,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "30%3AS3M34fgT3QUgew%3A2%3A1680315966%3A-1%3A-1%3A%3AAcV_ovGKz_JCtWV7W9CUjCw_3B3Xpbnep6rr_zsauA"
+			"value": "30%3AS3M34fgT3QUgew%3A2%3A1680315966%3A-1%3A-1%3A%3AAcWhREvkDKoTY5VxHXAjPBGTShzzZ6Vljie3xkQ8nw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683016886,
+			"expirationDate": 1682950894,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -88,7 +88,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690187989.926978,
+			"expirationDate": 1690121958.663549,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -97,7 +97,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ZotnLCCxPPSflCoa.AWXDs_LrD6fUCg50SVqVSHHZ0xE.BkR438.Re.AAA.0.0.BkR5HX.AWV_S_-V1ds"
+			"value": "0v3SBUMqAMc4k6cib.AWVtXs0J_NETaMD2dEwPDKtTDFE.BkRo04.Re.AAA.0.0.BkRo_o.AWW2kgEeixs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -109,9 +109,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.263070713833703%22%7D%5D%2C%22utc3%22%3A1682412092612%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682346102647%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "25.04.2023 10:00 Gupos-Paginas-001",
+	"lastEventDate": "30.04.2023 22:21 Fim ",
 	"status": 2
 }
