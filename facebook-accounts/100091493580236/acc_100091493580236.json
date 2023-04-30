@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713947013.117418,
+			"expirationDate": 1714429805.920089,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,20 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713947013.117497,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "23%3Alml1AbWhPYu8Pw%3A2%3A1679990901%3A-1%3A14696%3A%3AAcUinj_RZ5FPbDTYXjnsDkjjf8jR6l4xAXQ3_nOFbA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683016896,
+			"expirationDate": 1683498668,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -86,11 +73,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x580"
+			"value": "624x351"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690187999.091703,
+			"expirationDate": 1714429805.920166,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "23%3Alml1AbWhPYu8Pw%3A2%3A1679990901%3A-1%3A14696%3A%3AAcVCpJqTbhW94x06gXgZ9dEnCti_n1xspMy86h74JVc"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1690669804.920197,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "07A3osKnsgrPmi8hk.AWXqi7ZYrX0AfrxwPeJE6gMg7mw.BkR44G.jc.AAA.0.0.BkR5Hg.AWUJ1cgJGW8"
+			"value": "0r2x2DioI7OroUYFD.AWW6-TXlE2xAHvTyJXVCKkxxlTU.BkTuvu.jc.AAA.0.0.BkTuvu.AWWc8VdXeUc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,8 +111,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682412107653%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682893878012%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "30.04.2023 22:29 Fim "
+	"lastEventDate": "30.04.2023 22:33 Fim "
 }
