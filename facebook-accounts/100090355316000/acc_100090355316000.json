@@ -1,14 +1,14 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.04.2023 10:02 Gupos-Paginas-001",
+	"lastEventDate": "30.04.2023 22:20 Fim ",
 	"status": 2,
 	"id": "100090355316000",
 	"name": "",
 	"amountFriends": "12",
 	"screenname": "Tathiana Navarro",
 	"birthdate": "1995 March 27",
-	"country": "Brazil",
+	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713947015.716475,
+			"expirationDate": 1713869495.833368,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713947015.716669,
+			"expirationDate": 1713869495.833438,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "19%3AQ817740JPi4hEQ%3A2%3A1679990428%3A-1%3A1002%3A%3AAcX_PV5jfHJ9jiccXfjMMufAR-Eq4Nt3ocGkR9stYA"
+			"value": "19%3AQ817740JPi4hEQ%3A2%3A1679990428%3A-1%3A1002%3A%3AAcW4CwKue4NqOqCZQQ6vKCZgkNZTSpZ69_A-MPqIrw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690188017.903401,
+			"expirationDate": 1690109504.828645,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,7 +87,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03TgvdnYeHYfdvyGh.AWWKdGFTdYiCh7y0zT3iipCQrQQ.BkR44I.CZ.AAA.0.0.BkR5Hz.AWUP_apgH80"
+			"value": "0qWXlmzY1u7WtC7tB.AWV8wDy-j09Ac7OUyVnCPWYY3tA.BkRl85.CZ.AAA.0.0.BkRl9C.AWVKl2AMJJE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -99,20 +99,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.2085555741733977%22%7D%5D%2C%22utc3%22%3A1682412246199%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683017066,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1366x580"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682333534653%2C%22v%22%3A1%7D"
 		}
 	]
 }
